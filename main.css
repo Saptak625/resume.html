@@ -3,5 +3,9 @@ body {
 }
 
 p {
+    font-size: 12px;
+}
+
+.main-font {
     font-size: 14px;
 }
